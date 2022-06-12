@@ -1,0 +1,32 @@
+.main{
+    border: 2px solid gray;
+    width: 500px;
+    margin: 0px auto;
+
+}
+table{
+    width: 100%;
+
+}
+td{
+    width: 25%;
+}
+button{
+    width: 100%;
+    background-color:cyan;
+    color: rgb(19, 16, 16);
+    height: 70px;
+    font-size:30px;
+}
+input{
+    font-size: 30px;
+    width: 97%;
+    height: 90px;
+    background-color:white;
+
+}
+button:hover {
+    background-color: rgb(113, 152, 211);
+  }
+
+ 
